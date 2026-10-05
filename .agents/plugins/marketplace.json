@@ -1,0 +1,20 @@
+{
+  "name": "bark-personal",
+  "interface": {
+    "displayName": "Personal Bark Plugins"
+  },
+  "plugins": [
+    {
+      "name": "bark-notifications",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

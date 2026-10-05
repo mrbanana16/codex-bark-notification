@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "default_device": "iPhone",
+  "devices": {
+    "iPhone": {
+      "device_key": "YOUR_BARK_DEVICE_KEY"
+    }
+  }
+}

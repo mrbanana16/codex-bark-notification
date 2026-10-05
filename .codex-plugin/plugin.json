@@ -1,0 +1,17 @@
+{
+  "name": "bark-notifications",
+  "version": "0.1.0",
+  "description": "Manage private Bark devices and send explicitly authorized iOS notifications.",
+  "author": {
+    "name": "Personal"
+  },
+  "interface": {
+    "displayName": "Bark Notifications",
+    "shortDescription": "Authorized iOS notifications",
+    "developerName": "Personal",
+    "category": "Productivity",
+    "defaultPrompt": "List my Bark devices."
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

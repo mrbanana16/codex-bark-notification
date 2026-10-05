@@ -1,0 +1,12 @@
+.env
+.env.*
+devices.json
+devices.lock
+config.local.json
+*.secret.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
